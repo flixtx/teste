@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="" group-title="",SBT SP HD
+http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD" tvg-logo="" group-title="",GLOBO SP HD
+http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="" group-title="",BAND SP HD
+http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV SP HD" tvg-logo="" group-title="",RECORD TV SP HD
+http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="" group-title="",SporTV HD
+http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="" group-title="",SporTV 2 HD
+http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="" group-title="",Premiere Clubes HD
+http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="" group-title="",ESPN 2 HD
+http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="",TNT HD
+http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="" group-title="",Telecine Pipoca HD
+http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="" group-title="",Telecine Premium HD
+http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="" group-title="",Megapix HD
+http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="",MTV HD
+http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIVA HD" tvg-logo="" group-title="",VIVA HD
+http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" group-title="",Nickelodeon HD
+http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sexy Hot HD" tvg-logo="" group-title="",Sexy Hot HD
+http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PlayBoy HD" tvg-logo="" group-title="",PlayBoy HD
+http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/17.m3u8
