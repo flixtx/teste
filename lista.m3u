@@ -1,71 +1,635 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="jogos ao vivo" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ABP_Majha.png" group-title="futebol",jogos
-https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
-#EXTINF:-1 tvg-id="jogos ao vivo" tvg-logo="https://i.imgur.com/SjbtAFh.png" group-title="futebol",jogos2
-https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
-#EXTINF:-1 tvg-id="jogos ao vivo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NDTV_logo.svg/300px-NDTV_logo.svg.png" group-title="futebol",jogo 3
-https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="" group-title="",SporTV HD
-http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="" group-title="",SporTV 2 HD
-http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="" group-title="",Premiere Clubes HD
-http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="" group-title="",ESPN 2 HD
-http://conexao-vs.live:80/live/visionplay/KSZ9kSxhUt/8.m3u8
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="CANAIS | SPORTV",SPORTV 2 SD²
-http://conexaoonline.top:80/162507229144635/209711/234832.m3u8
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="CANAIS | SPORTV",SPORTV 3 FHD H265
-http://conexaoonline.top:80/162507229144635/209711/69.m3u8
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="CANAIS | SPORTV",SPORTV 3 FHD H265²
-http://conexaoonline.top:80/162507229144635/209711/234833.m3u8
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="CANAIS | SPORTV",SPORTV 3 FHD²
-http://conexaoonline.top:80/162507229144635/209711/234834.m3u8
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="CANAIS | SPORTV",SPORTV 3 HD
-http://conexaoonline.top:80/162507229144635/209711/303.m3u8
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="CANAIS | SPORTV",SPORTV 3 HD²
-http://conexaoonline.top:80/162507229144635/209711/234835.m3u8
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="CANAIS | SPORTV",SPORTV 3 SD
-http://conexaoonline.top:80/162507229144635/209711/229.m3u8
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="CANAIS | SPORTV",SPORTV 3 SD²
-http://conexaoonline.top:80/162507229144635/209711/234836.m3u8
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 FHD²" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 2 FHD²
-http://conexaoonline.top:80/162507229144635/209711/234850.m3u8
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 HD" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 2 HD
-http://conexaoonline.top:80/162507229144635/209711/348.m3u8
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 HD²" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 2 HD²
-http://conexaoonline.top:80/162507229144635/209711/234851.m3u8
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 SD" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 2 SD
-http://conexaoonline.top:80/162507229144635/209711/2051.m3u8
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 SD²" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 2 SD²
-http://conexaoonline.top:80/162507229144635/209711/234852.m3u8
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 FHD H265" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="CANAIS | ESPN",ESPN 3 FHD H265
-http://conexaoonline.top:80/162507229144635/209711/42.m3u8
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 FHD H265²" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="CANAIS | ESPN",ESPN 3 FHD H265²
-http://conexaoonline.top:80/162507229144635/209711/234853.m3u8
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 FHD²" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="CANAIS | ESPN",ESPN 3 FHD²
-http://conexaoonline.top:80/162507229144635/209711/234854.m3u8
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 HD" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="CANAIS | ESPN",ESPN 3 HD
-http://conexaoonline.top:80/162507229144635/209711/273.m3u8
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 HD²" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="CANAIS | ESPN",ESPN 3 HD²
-http://conexaoonline.top:80/162507229144635/209711/234855.m3u8
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 SD" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="CANAIS | ESPN",ESPN 3 SD
-http://conexaoonline.top:80/162507229144635/209711/2052.m3u8
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 SD²" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="CANAIS | ESPN",ESPN 3 SD²
-http://conexaoonline.top:80/162507229144635/209711/234856.m3u8
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 FHD H265
-http://conexaoonline.top:80/162507229144635/209711/48.m3u8
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 FHD H265²
-http://conexaoonline.top:80/162507229144635/209711/234857.m3u8
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 FHD²" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 FHD²
-http://conexaoonline.top:80/162507229144635/209711/234858.m3u8
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESPN 4 HD" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 HD
-http://conexaoonline.top:80/162507229144635/209711/319.m3u8
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 HD²" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 HD²
-http://conexaoonline.top:80/162507229144635/209711/234859.m3u8
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 SD" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 SD
-http://conexaoonline.top:80/162507229144635/209711/194.m3u8
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 SD²" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 SD²
-http://conexaoonline.top:80/162507229144635/209711/234860.m3u8
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="CANAIS | ESPN",ESPN EXTRA FHD H265
-http://conexaoonline.top:80/162507229144635/209711/88.m3u8
+#EXTINF:-1 xui-id="387052" tvg-id="" tvg-name="A&E FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/kQtZmsG3c2qwPS3/download/AE.png" group-title="CANAIS | FILMES & SÉRIES",A&E FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFTOFxCgYo1RCo6Y4E3qW3g0/m3u8
+#EXTINF:-1 xui-id="141408" tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/kQtZmsG3c2qwPS3/download/AE.png" group-title="CANAIS | FILMES & SÉRIES",A&E HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFYS0s7rPGGmAt-rGLR516DQ/m3u8
+#EXTINF:-1 xui-id="141409" tvg-id="A&E HD" tvg-name="A&E SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/kQtZmsG3c2qwPS3/download/AE.png" group-title="CANAIS | FILMES & SÉRIES",A&E SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFbbZtGQlWcgOxv9yENEoLq0/m3u8
+#EXTINF:-1 xui-id="688349" tvg-id="" tvg-name="AMAZON PRIME 01" tvg-logo="https://files.jpnetwork.com.br/index.php/s/azpqrKsMY38x9cp/download/PRIME%20VIDEO.png" group-title="ESPORTES | ESPECIAIS",AMAZON PRIME 01
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFeS5qfJmIhTIumbG9Xld3As/m3u8
+#EXTINF:-1 xui-id="688350" tvg-id="" tvg-name="AMAZON PRIME 02" tvg-logo="https://files.jpnetwork.com.br/index.php/s/azpqrKsMY38x9cp/download/PRIME%20VIDEO.png" group-title="ESPORTES | ESPECIAIS",AMAZON PRIME 02
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFfGjnHqp-qNDqVKX-CHAudk/m3u8
+#EXTINF:-1 xui-id="688351" tvg-id="" tvg-name="AMAZON PRIME 03" tvg-logo="https://files.jpnetwork.com.br/index.php/s/azpqrKsMY38x9cp/download/PRIME%20VIDEO.png" group-title="ESPORTES | ESPECIAIS",AMAZON PRIME 03
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFTn0dQlG99tY11GO6gllq-E/m3u8
+#EXTINF:-1 xui-id="387050" tvg-id="" tvg-name="AMC FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/PfXcRLL67qH8fTw/download/AMC.png" group-title="CANAIS | FILMES & SÉRIES",AMC FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFTgjydqDq9jSQkF8rsqaomE/m3u8
+#EXTINF:-1 xui-id="141410" tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/PfXcRLL67qH8fTw/download/AMC.png" group-title="CANAIS | FILMES & SÉRIES",AMC HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFeJL5FLR0-ssPjzsOOuI-6I/m3u8
+#EXTINF:-1 xui-id="141411" tvg-id="AMC HD" tvg-name="AMC SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/PfXcRLL67qH8fTw/download/AMC.png" group-title="CANAIS | FILMES & SÉRIES",AMC SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFSu2BDfYuPRRC8kfO69fUSE/m3u8
+#EXTINF:-1 xui-id="141663" tvg-id="ANIPBHD" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/FPPJ3NgbkifPmdf/download/1280px-Animal-Planet-logo.png" group-title="CANAIS | DOCUMENTÁRIO",ANIMAL PLANET FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFSI5tJI1SSOUPEtql2XPQK8/m3u8
+#EXTINF:-1 xui-id="141635" tvg-id="A&E HD" tvg-name="ANIMAL PLANET HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/FPPJ3NgbkifPmdf/download/1280px-Animal-Planet-logo.png" group-title="CANAIS | DOCUMENTÁRIO",ANIMAL PLANET HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFbWgGSumfD8gPKvH567EQaU/m3u8
+#EXTINF:-1 xui-id="141636" tvg-id="Animal Planet SD" tvg-name="ANIMAL PLANET SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/FPPJ3NgbkifPmdf/download/1280px-Animal-Planet-logo.png" group-title="CANAIS | DOCUMENTÁRIO",ANIMAL PLANET SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFX7AIfWgc_G9n9jVljEhge0/m3u8
+#EXTINF:-1 xui-id="1609857" tvg-id="" tvg-name="Anime TV - WebTV" tvg-logo="http://cdn.upcinetv.me:80/images/676d8aa991587b45400f23d58a26ef65.png" group-title="CANAIS | ABERTOS 2",Anime TV - WebTV
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFRsNZD6a5wMeEh-VwHjBlGI/m3u8
+#EXTINF:-1 xui-id="387051" tvg-id="Arte 1 FHD" tvg-name="ARTE 1 H265" tvg-logo="https://files.jpnetwork.com.br/index.php/s/dcxyroFPN8NAzdr/download/arte1.png" group-title="CANAIS | FILMES & SÉRIES",ARTE 1 H265
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFdpcNA1b04_CTS5hp7WHFrY/m3u8
+#EXTINF:-1 xui-id="141412" tvg-id="Arte 1 HD" tvg-name="ARTE 1 HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/dcxyroFPN8NAzdr/download/arte1.png" group-title="CANAIS | FILMES & SÉRIES",ARTE 1 HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFVeO-MWfDD_AmcSuIo7UhmI/m3u8
+#EXTINF:-1 xui-id="141413" tvg-id="Arte 1 HD" tvg-name="ARTE 1 SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/dcxyroFPN8NAzdr/download/arte1.png" group-title="CANAIS | FILMES & SÉRIES",ARTE 1 SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZpM9Q-OtgeF0TAHm6gfkqw/m3u8
+#EXTINF:-1 xui-id="1609875" tvg-id="" tvg-name="AWTV" tvg-logo="http://cdn.upcinetv.me:80/images/4b65a4423c20e1f62434a7504f6fdef0.png" group-title="CANAIS | ABERTOS 2",AWTV
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZlSz7uoKfVBY8LO3kGuoDQ/m3u8
+#EXTINF:-1 xui-id="387048" tvg-id="AXN FHD H.265" tvg-name="AXN FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/BWDfqKPH2SQZBoj/download/AXN.png" group-title="CANAIS | FILMES & SÉRIES",AXN FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFe5IgBkDmu_koeq6-B6WXfM/m3u8
+#EXTINF:-1 xui-id="141414" tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/BWDfqKPH2SQZBoj/download/AXN.png" group-title="CANAIS | FILMES & SÉRIES",AXN HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUoPbGABnVtoOaJhk-B5JQY/m3u8
+#EXTINF:-1 xui-id="141415" tvg-id="AXN SD" tvg-name="AXN SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/BWDfqKPH2SQZBoj/download/AXN.png" group-title="CANAIS | FILMES & SÉRIES",AXN SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFdarOY2TmJvdwbr4QT0ITYM/m3u8
+#EXTINF:-1 xui-id="141599" tvg-id="" tvg-name="BABY TV HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/xp3XkapwHEYfZBo/download/babytv.png" group-title="CANAIS | INFANTIL",BABY TV HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXrooWBT-u3NqXPgGvr--D4/m3u8
+#EXTINF:-1 xui-id="141600" tvg-id="" tvg-name="BABY TV HD¹" tvg-logo="https://files.jpnetwork.com.br/index.php/s/xp3XkapwHEYfZBo/download/babytv.png" group-title="CANAIS | INFANTIL",BABY TV HD¹
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFRZdt4sO-ijaCZJ5iD9t01o/m3u8
+#EXTINF:-1 xui-id="1382074" tvg-id="" tvg-name="Band Bahia HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",Band Bahia HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFV3g-x0L2fMTb-HwN7mMghQ/m3u8
+#EXTINF:-1 xui-id="141384" tvg-id="" tvg-name="BAND CAMPINAS SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",BAND CAMPINAS SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFeqbSJZUB0ogApALtZRtZrE/m3u8
+#EXTINF:-1 xui-id="141395" tvg-id="" tvg-name="BAND FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",BAND FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFf7hJ_qpZfq3-6NENwl2Hqk/m3u8
+#EXTINF:-1 xui-id="268152" tvg-id="" tvg-name="BAND H265" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",BAND H265
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUgoWTtwZ07VTjySDI40rhs/m3u8
+#EXTINF:-1 xui-id="1609845" tvg-id="" tvg-name="Band Minas" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",Band Minas
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFaV9dMYYQc92za1g28w-lHM/m3u8
+#EXTINF:-1 xui-id="688659" tvg-id="" tvg-name="BAND MINAS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",BAND MINAS HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFdDExWEOFzIQKVCHeunn8HQ/m3u8
+#EXTINF:-1 xui-id="404644" tvg-id="" tvg-name="BAND NEWS FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/TofYoFGWT5ao4jj/download/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFS8dNZN4n_RjzeEvrKuRQE0/m3u8
+#EXTINF:-1 xui-id="685180" tvg-id="" tvg-name="BAND NEWS FHD*" tvg-logo="https://files.jpnetwork.com.br/index.php/s/TofYoFGWT5ao4jj/download/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD*
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFa6cgDonhW4i7NsXbu9BUZY/m3u8
+#EXTINF:-1 xui-id="404645" tvg-id="" tvg-name="BAND NEWS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/TofYoFGWT5ao4jj/download/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFfOcDndKWyTtPovjcn2RU3E/m3u8
+#EXTINF:-1 xui-id="410361" tvg-id="" tvg-name="BAND RJ FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",BAND RJ FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFc60XVasDaft8zK9GysIXaA/m3u8
+#EXTINF:-1 xui-id="141396" tvg-id="" tvg-name="Band RJ HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",Band RJ HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFRx-i0TOseJ1JKD8PHmD4fg/m3u8
+#EXTINF:-1 xui-id="141397" tvg-id="" tvg-name="BAND RJ SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",BAND RJ SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFfp2zUlxIDy1P_NYxbr5lFw/m3u8
+#EXTINF:-1 xui-id="1590850" tvg-id="BR - Band Rio Grande do Sul HD" tvg-name="Band RS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",Band RS HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFWaih4yPpuDpnZCq3INOANE/m3u8
+#EXTINF:-1 xui-id="292157" tvg-id="Band SP HD" tvg-name="BAND SP FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",BAND SP FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFfx3pYw20hhbDEcxUuGXD1Q/m3u8
+#EXTINF:-1 xui-id="251998" tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",BAND SP HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFSHCqQCW0PD40pii9cWNapw/m3u8
+#EXTINF:-1 xui-id="141387" tvg-id="" tvg-name="BAND SP SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",BAND SP SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUXa-YIWUwhj9Ok6hh4JqsA/m3u8
+#EXTINF:-1 xui-id="404915" tvg-id="" tvg-name="BAND SPORTS FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/i9Ag5NzkEnDwLng/download/bandsportes.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFfLNMjtysJxizAp-Y-dZNZc/m3u8
+#EXTINF:-1 xui-id="404914" tvg-id="Band Sports HD" tvg-name="BAND SPORTS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/i9Ag5NzkEnDwLng/download/bandsportes.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZjS54iTqbNsM5Pu5ebxPeA/m3u8
+#EXTINF:-1 xui-id="141521" tvg-id="" tvg-name="BAND SPORTS SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/i9Ag5NzkEnDwLng/download/bandsportes.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFRl7ZLkCt4rfeb-1NpqUln8/m3u8
+#EXTINF:-1 xui-id="1609946" tvg-id="" tvg-name="BEM TV" tvg-logo="https://imgur.com/S9icaS4.png" group-title="CANAIS | ABERTOS 2",BEM TV
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFYQ95w6FblerzCiQuZu4Gug/m3u8
+#EXTINF:-1 xui-id="141563" tvg-id="" tvg-name="BIS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7PHJcYYDKL8ffwZ/download/bis.png" group-title="CANAIS | VARIEDADES",BIS HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFaQkJAyVJGRBgx_T_7CJwNU/m3u8
+#EXTINF:-1 xui-id="141564" tvg-id="" tvg-name="BIS SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7PHJcYYDKL8ffwZ/download/bis.png" group-title="CANAIS | VARIEDADES",BIS SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFSbF7Hb0ke7O5byhcKavlYo/m3u8
+#EXTINF:-1 xui-id="1609963" tvg-id="" tvg-name="BLITS TV" tvg-logo="https://imgur.com/ipKpPCe.png" group-title="CANAIS | ABERTOS 2",BLITS TV
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFYwKxGdCfVyg4sKwu7Whzxs/m3u8
+#EXTINF:-1 xui-id="1610003" tvg-id="" tvg-name="CAMOCIM WEB TV" tvg-logo="https://imgur.com/3tLkoPl.png" group-title="CANAIS | ABERTOS 2",CAMOCIM WEB TV
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFYiZOSvGLHW137O5grIjpYM/m3u8
+#EXTINF:-1 xui-id="1610006" tvg-id="" tvg-name="CANAL 25 JUNDIAI" tvg-logo="https://imgur.com/GgH6F4t.png" group-title="CANAIS | ABERTOS 2",CANAL 25 JUNDIAI
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQmrwJHRJc5U3EQKqylCAB4/m3u8
+#EXTINF:-1 xui-id="1609904" tvg-id="" tvg-name="Canal 29 - WebTV" tvg-logo="http://cdn.upcinetv.me:80/images/19f9f739e81dd98cd76852eda92c1e3c.jpg" group-title="CANAIS | ABERTOS 2",Canal 29 - WebTV
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFa6t2hVRY4qfG8CBbW25GVI/m3u8
+#EXTINF:-1 xui-id="141388" tvg-id="" tvg-name="CANAL BRASIL SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/g7FkHa2PAXAYfgA/download/TV-Brasil-logo.png" group-title="CANAIS | ABERTOS",CANAL BRASIL SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFexycAE8Q-CNjcXnIJur1WM/m3u8
+#EXTINF:-1 xui-id="1607915" tvg-id="" tvg-name="CANAL DO BOI HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7JJ8C6sbgX85AzD/download/Logo-Canal-do-Boi.png" group-title="CANAIS | ABERTOS",CANAL DO BOI HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFRcbM4RQeU3FtzoD3jLH1Ss/m3u8
+#EXTINF:-1 xui-id="1609863" tvg-id="" tvg-name="Canal Educação" tvg-logo="http://cdn.upcinetv.me:80/images/263e3d44c14618e05cd906342c075ca0.jpeg" group-title="CANAIS | ABERTOS 2",Canal Educação
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFdi_klUMqCrKVEc4J6XE-o0/m3u8
+#EXTINF:-1 xui-id="1404723" tvg-id="" tvg-name="Canal GOAT 1" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Cf3exgBdyBi22NE/download/goat.png" group-title="ESPORTES | ESPECIAIS",Canal GOAT 1
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFU3DtH6_VEuwdg_y8-XNDWA/m3u8
+#EXTINF:-1 xui-id="1404724" tvg-id="" tvg-name="Canal GOAT 2" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Cf3exgBdyBi22NE/download/goat.png" group-title="ESPORTES | ESPECIAIS",Canal GOAT 2
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFfd5WHRzDKvlLrCJxWVFzQo/m3u8
+#EXTINF:-1 xui-id="1609862" tvg-id="" tvg-name="Canal Gov" tvg-logo="http://cdn.upcinetv.me:80/images/91db0d12a5ca64ec40356cdb3d36bd68.png" group-title="CANAIS | ABERTOS 2",Canal Gov
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFfdGJGfInpiwIaA6byNu1Aw/m3u8
+#EXTINF:-1 xui-id="1378919" tvg-id="" tvg-name="Canal Rural HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/QXAizWnrBnaFQdQ/download/canalrural.png" group-title="CANAIS | ABERTOS",Canal Rural HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQUThy4VdHoc_Oe3C3pDrO0/m3u8
+#EXTINF:-1 xui-id="1378920" tvg-id="" tvg-name="Canal Rural SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/QXAizWnrBnaFQdQ/download/canalrural.png" group-title="CANAIS | ABERTOS",Canal Rural SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFe6wwWaoFLez4xKXl4ZyPYc/m3u8
+#EXTINF:-1 xui-id="221668" tvg-id="Cancao Nova SD [Alter]" tvg-name="CANÇÃO NOVA HD¹" tvg-logo="https://files.jpnetwork.com.br/index.php/s/FsXdSwxXqpS7Efy/download/cancaonova.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA HD¹
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFcZZ-JnYLVTR6exkN2nC0oY/m3u8
+#EXTINF:-1 xui-id="141400" tvg-id="Cancao Nova SD" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/FsXdSwxXqpS7Efy/download/cancaonova.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUH8FEhS3anO_Rw7gJbbiPw/m3u8
+#EXTINF:-1 xui-id="141627" tvg-id="" tvg-name="CARTOON NETWORK  FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/GnN3jtHW2Jikd3g/download/cartoonnetwork.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK  FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZ5PDGxXbsryi-SdYTFEjio/m3u8
+#EXTINF:-1 xui-id="141603" tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/GnN3jtHW2Jikd3g/download/cartoonnetwork.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFcPyh0PcUTvzGSwGCQLVyD4/m3u8
+#EXTINF:-1 xui-id="141604" tvg-id="" tvg-name="CARTOON NETWORK SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/GnN3jtHW2Jikd3g/download/cartoonnetwork.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXKGp2fjWBTvRYSudC-Y19g/m3u8
+#EXTINF:-1 xui-id="141601" tvg-id="" tvg-name="CARTOONITO HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/5XgoSfqLeC9mSFX/download/cartoonito.png" group-title="CANAIS | INFANTIL",CARTOONITO HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUJf-uo_aE5MC_qhxJHXPdY/m3u8
+#EXTINF:-1 xui-id="141602" tvg-id="" tvg-name="CARTOONITO SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/5XgoSfqLeC9mSFX/download/cartoonito.png" group-title="CANAIS | INFANTIL",CARTOONITO SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFSBODhJJG-yrEa2vTtHV7jI/m3u8
+#EXTINF:-1 xui-id="1609890" tvg-id="" tvg-name="Central TV" tvg-logo="http://cdn.upcinetv.me:80/images/bd33919f52652619059d0fc44c231e1b.png" group-title="CANAIS | ABERTOS 2",Central TV
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFfNr6SjgM-baLP5opOSsak8/m3u8
+#EXTINF:-1 xui-id="1609924" tvg-id="" tvg-name="CGTN Español" tvg-logo="http://cdn.upcinetv.me:80/images/c30e52078644094f9306c7a735df89c4.png" group-title="CANAIS | ABERTOS 2",CGTN Español
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFVHhbFqqjuHYINV7QkGaAUk/m3u8
+#EXTINF:-1 xui-id="1605281" tvg-id="" tvg-name="CINE CANAL" tvg-logo="https://raw.githubusercontent.com/NNetworkBR/tv-logos/main/countries/brazil/prod/cine-canal.png" group-title="CANAIS | FILMES & SÉRIES",CINE CANAL
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZIjIpz4RLvSMCWbyJonJPA/m3u8
+#EXTINF:-1 xui-id="387053" tvg-id="Cinemax FHD" tvg-name="CINEMAX FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7oHFm8T6ZpeZPXx/download/CINEMAX.png" group-title="CANAIS | FILMES & SÉRIES",CINEMAX FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFRKYn-bIRWC4YwnshrC5EVw/m3u8
+#EXTINF:-1 xui-id="141416" tvg-id="Cinemax HD" tvg-name="CINEMAX HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7oHFm8T6ZpeZPXx/download/CINEMAX.png" group-title="CANAIS | FILMES & SÉRIES",CINEMAX HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFfxSFxMvT8LNEwBJK3zwtqM/m3u8
+#EXTINF:-1 xui-id="141417" tvg-id="Cinemax HD" tvg-name="CINEMAX SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7oHFm8T6ZpeZPXx/download/CINEMAX.png" group-title="CANAIS | FILMES & SÉRIES",CINEMAX SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFeJ1qvZpnsWOAOZHseB5T-w/m3u8
+#EXTINF:-1 xui-id="1609959" tvg-id="" tvg-name="CLASSIQUE TV" tvg-logo="https://imgur.com/mvuZGvt.png" group-title="CANAIS | ABERTOS 2",CLASSIQUE TV
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXlyfkhZN7kPaosyRxVMf88/m3u8
+#EXTINF:-1 xui-id="1609960" tvg-id="" tvg-name="CLASSIQUE TV WESTERN" tvg-logo="https://imgur.com/mvuZGvt.png" group-title="CANAIS | ABERTOS 2",CLASSIQUE TV WESTERN
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFbmGES-_P26C3IoA9gi2ElY/m3u8
+#EXTINF:-1 xui-id="404649" tvg-id="" tvg-name="CNN BRASIL FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/8Q49r3RNnp4ziW2/download/CNN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFawFvEMn1pvSwuWwFbkLTl4/m3u8
+#EXTINF:-1 xui-id="685178" tvg-id="" tvg-name="CNN BRASIL FHD*" tvg-logo="https://files.jpnetwork.com.br/index.php/s/8Q49r3RNnp4ziW2/download/CNN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD*
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZuwwtijYEjLStkjKVx4mlU/m3u8
+#EXTINF:-1 xui-id="404650" tvg-id="" tvg-name="CNN BRASIL HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/8Q49r3RNnp4ziW2/download/CNN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFW5hZ-0hIcNxy_63ki-mrlE/m3u8
+#EXTINF:-1 xui-id="686956" tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL HD*" tvg-logo="https://seeklogo.com/images/C/cnn-brasil-logo-029B34D6AD-seeklogo.com.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD*
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFTrOqXonUNbC4ccY8mJjw1o/m3u8
+#EXTINF:-1 xui-id="404648" tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL HD¹" tvg-logo="https://files.jpnetwork.com.br/index.php/s/8Q49r3RNnp4ziW2/download/CNN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD¹
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXTTAa_m7ADB3V8EFKef4tQ/m3u8
+#EXTINF:-1 xui-id="1609916" tvg-id="" tvg-name="Colosal TV" tvg-logo="http://cdn.upcinetv.me:80/images/d7a3506c46b90337641b9257f424d2c6.png" group-title="CANAIS | ABERTOS 2",Colosal TV
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFadGwgfit2mpHvbhFcn9yew/m3u8
+#EXTINF:-1 xui-id="285996" tvg-id="Combate HD" tvg-name="COMBATE FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/4GDCMzWa5ZLcLz9/download/combate.png" group-title="CANAIS | ESPORTES",COMBATE FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUM573pdzLOdM5HjsnfraWM/m3u8
+#EXTINF:-1 xui-id="404916" tvg-id="" tvg-name="COMBATE HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/4GDCMzWa5ZLcLz9/download/combate.png" group-title="CANAIS | ESPORTES",COMBATE HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFVC9u5wqahTGJmOf9CjhD_E/m3u8
+#EXTINF:-1 xui-id="141523" tvg-id="" tvg-name="COMBATE SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/4GDCMzWa5ZLcLz9/download/combate.png" group-title="CANAIS | ESPORTES",COMBATE SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFYzO17jR23FgiaXtWG1BZ_0/m3u8
+#EXTINF:-1 xui-id="685429" tvg-id="Comedy Central FHD" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/BSyxbk2cE6zTbYd/download/comedycentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFVibloHydD0JNCpUre-DxbU/m3u8
+#EXTINF:-1 xui-id="141565" tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/BSyxbk2cE6zTbYd/download/comedycentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFT0WenD7eU3QBSnoqCpBaFQ/m3u8
+#EXTINF:-1 xui-id="141566" tvg-id="" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/BSyxbk2cE6zTbYd/download/comedycentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUV_qsknwyxOwXGqNXJ9XEk/m3u8
+#EXTINF:-1 xui-id="1609989" tvg-id="" tvg-name="CONECT TV" tvg-logo="https://imgur.com/2pSzgVU.png" group-title="CANAIS | ABERTOS 2",CONECT TV
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQpzZXUiGnV0TuA34ebrw4M/m3u8
+#EXTINF:-1 xui-id="1609984" tvg-id="" tvg-name="CONEXAO TV" tvg-logo="https://imgur.com/s80elMU.png" group-title="CANAIS | ABERTOS 2",CONEXAO TV
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZdY0nEGIf7yZMPaD1upC5g/m3u8
+#EXTINF:-1 xui-id="141637" tvg-id="" tvg-name="CURTA! HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/FHrKmWNR5CMf45C/download/CURTA!.png" group-title="CANAIS | DOCUMENTÁRIO",CURTA! HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFf-iv-EWO3A77ovNyW7wtr8/m3u8
+#EXTINF:-1 xui-id="141638" tvg-id="" tvg-name="CURTA! SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/FHrKmWNR5CMf45C/download/CURTA!.png" group-title="CANAIS | DOCUMENTÁRIO",CURTA! SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXJxPEp1sL2tPoPkokqz67k/m3u8
+#EXTINF:-1 xui-id="1609877" tvg-id="" tvg-name="DarkFlix HD" tvg-logo="http://cdn.upcinetv.me:80/images/f56a61ccead368ca10bd36812470a259.png" group-title="CANAIS | ABERTOS 2",DarkFlix HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFeO_RDiW_jFDMuhbiHPVQEI/m3u8
+#EXTINF:-1 xui-id="54361" tvg-id="dashradio.us" tvg-name="DASH | '70S" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | '70S
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFWLG-u9T64vzj1QJMuxlETM/m3u8
+#EXTINF:-1 xui-id="54369" tvg-id="dashradio.us" tvg-name="DASH | BREALTV" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | BREALTV
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQ54W2WkSBL30jb5d6ymWPw/m3u8
+#EXTINF:-1 xui-id="54372" tvg-id="dashradio.us" tvg-name="DASH | CANNABIS TALK 101" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | CANNABIS TALK 101
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXt4c1eDvw4ZQ2xoBKALePE/m3u8
+#EXTINF:-1 xui-id="54378" tvg-id="dashradio.us" tvg-name="DASH | DASH INDIE" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | DASH INDIE
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXShKlWW5A6HxPN-hsZ9RyE/m3u8
+#EXTINF:-1 xui-id="54380" tvg-id="dashradio.us" tvg-name="DASH | DISCO FEVER" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | DISCO FEVER
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFe3gU_nKRbpgGU5w7brAjaA/m3u8
+#EXTINF:-1 xui-id="54381" tvg-id="dashradio.us" tvg-name="DASH | DISCOVER" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | DISCOVER
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQybM8AHlJ-LXZTz0NWusC4/m3u8
+#EXTINF:-1 xui-id="54383" tvg-id="dashradio.us" tvg-name="DASH | ELECTRO CITY" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | ELECTRO CITY
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFRret9s573S3m-dcdSQzx1E/m3u8
+#EXTINF:-1 xui-id="54387" tvg-id="dashradio.us" tvg-name="DASH | FUSHION" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | FUSHION
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFdl5BfRVKMOfRzCN8WUKfTI/m3u8
+#EXTINF:-1 xui-id="54388" tvg-id="dashradio.us" tvg-name="DASH | ICRAFT RADIO POWERED BY T-BOZ" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | ICRAFT RADIO POWERED BY T-BOZ
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFRFVx1ziSY2u88ltIX4-a1E/m3u8
+#EXTINF:-1 xui-id="54389" tvg-id="dashradio.us" tvg-name="DASH | IMPERIO" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | IMPERIO
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFRIvsow3h8U1zyGtOuOoz-Y/m3u8
+#EXTINF:-1 xui-id="54392" tvg-id="dashradio.us" tvg-name="DASH | LA ISLA" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | LA ISLA
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFSRlPY7g9LBSb_a_c3vs0mI/m3u8
+#EXTINF:-1 xui-id="54394" tvg-id="dashradio.us" tvg-name="DASH | LOVE SONGS" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | LOVE SONGS
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFbXW6Z_vyQyTTGaanda7NF8/m3u8
+#EXTINF:-1 xui-id="54395" tvg-id="dashradio.us" tvg-name="DASH | MONSTERCAT" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | MONSTERCAT
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFYFjgvGuH-_E6hPo8y1U4tI/m3u8
+#EXTINF:-1 xui-id="54397" tvg-id="dashradio.us" tvg-name="DASH | NATIVE RHYMES" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | NATIVE RHYMES
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUpg06gYaFdvfrKVGTQoevk/m3u8
+#EXTINF:-1 xui-id="54398" tvg-id="dashradio.us" tvg-name="DASH | ODD FUTURE RADIO" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | ODD FUTURE RADIO
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXeBUKWqb9le797QP2a0XEE/m3u8
+#EXTINF:-1 xui-id="54400" tvg-id="dashradio.us" tvg-name="DASH | PURE SOUL POWERED BY ISAAC HAYES" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | PURE SOUL POWERED BY ISAAC HAYES
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZ74J1l5_-HNu5pB5y0KUmY/m3u8
+#EXTINF:-1 xui-id="54404" tvg-id="dashradio.us" tvg-name="DASH | SKEENET" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | SKEENET
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFRQOqFnUM9V59ehj5RKBuyc/m3u8
+#EXTINF:-1 xui-id="54406" tvg-id="dashradio.us" tvg-name="DASH | SWING" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | SWING
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFWcGXxjvXHWdwHocFFBZaos/m3u8
+#EXTINF:-1 xui-id="54407" tvg-id="dashradio.us" tvg-name="DASH | THE BRIDGE" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | THE BRIDGE
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFRIeJeSt81zPzEkbeBrqLIw/m3u8
+#EXTINF:-1 xui-id="54409" tvg-id="dashradio.us" tvg-name="DASH | THE CROSS" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | THE CROSS
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFYhOVb6PYD3tmL_727hfiBQ/m3u8
+#EXTINF:-1 xui-id="54410" tvg-id="dashradio.us" tvg-name="DASH | THE CUT" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | THE CUT
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFVFXeDxsiMOVDDpwb5hQNo4/m3u8
+#EXTINF:-1 xui-id="54411" tvg-id="dashradio.us" tvg-name="DASH | THE OLDIES" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | THE OLDIES
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXL7QVlTJ_Hg_I3vAo6jbk8/m3u8
+#EXTINF:-1 xui-id="54412" tvg-id="dashradio.us" tvg-name="DASH | THE RANCH" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | THE RANCH
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFcnWJDac4oGQL6NlKSaZ3js/m3u8
+#EXTINF:-1 xui-id="54414" tvg-id="dashradio.us" tvg-name="DASH | THE STRIP" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | THE STRIP
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFbCijkr1ro4d0IveT62nnBQ/m3u8
+#EXTINF:-1 xui-id="54416" tvg-id="dashradio.us" tvg-name="DASH | XXL" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | XXL
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFa7yR8foPf81VmARnB4WIjs/m3u8
+#EXTINF:-1 xui-id="54418" tvg-id="dashradio.us" tvg-name="DASH | YG PRESENTS" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | YG PRESENTS
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFeu522gEISCUDCeaeGyOJKI/m3u8
+#EXTINF:-1 xui-id="54419" tvg-id="dashradio.us" tvg-name="DASH | YOUNG MONEY" tvg-logo="https://i.ibb.co/0jBLJBr/dash-radio.png" group-title="RÁDIOS",DASH | YOUNG MONEY
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFbNqrPpiSHk78JOEoJtRCjM/m3u8
+#EXTINF:-1 xui-id="409208" tvg-id="Dazn 1 HD" tvg-name="DAZN 1" tvg-logo="https://files.jpnetwork.com.br/index.php/s/yJt85r9jCPtTdp6/download/dazn.png" group-title="ESPORTES | ESPECIAIS",DAZN 1
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUh4-fDMVzTk_f4Lv81latk/m3u8
+#EXTINF:-1 xui-id="409209" tvg-id="Dazn 2 HD" tvg-name="DAZN 2" tvg-logo="https://files.jpnetwork.com.br/index.php/s/yJt85r9jCPtTdp6/download/dazn.png" group-title="ESPORTES | ESPECIAIS",DAZN 2
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQ6_3FH8p6dgM7EvdvWwPrQ/m3u8
+#EXTINF:-1 xui-id="1609921" tvg-id="" tvg-name="Deutsche Welle" tvg-logo="http://cdn.upcinetv.me:80/images/5c8b8292c0939175e7ee61ba372c5aea.png" group-title="CANAIS | ABERTOS 2",Deutsche Welle
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFbfynvFPSaDZM-b6j6XwcgA/m3u8
+#EXTINF:-1 xui-id="141668" tvg-id="" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/WcZqFKkPQkjMwp5/download/discovery-channel.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY CHANNEL FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFVSUqufBkudKu-jhYurmFtU/m3u8
+#EXTINF:-1 xui-id="141639" tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/WcZqFKkPQkjMwp5/download/discovery-channel.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY CHANNEL HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFYKAopHlx9VZ2YAKNWjvIqs/m3u8
+#EXTINF:-1 xui-id="141640" tvg-id="" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/WcZqFKkPQkjMwp5/download/discovery-channel.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY CHANNEL SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFaz0itA2NF-9TEeRC_F-Vxw/m3u8
+#EXTINF:-1 xui-id="141669" tvg-id="" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/odcpos2c3JsYJHa/download/discovery-h-h.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY HOME & HEALTH FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZpj68VyLYR-gWubq-rXtxM/m3u8
+#EXTINF:-1 xui-id="141641" tvg-id="" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/odcpos2c3JsYJHa/download/discovery-h-h.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY HOME & HEALTH HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFaA4okKpfH3Wgr2OnK-Jstc/m3u8
+#EXTINF:-1 xui-id="141642" tvg-id="" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/odcpos2c3JsYJHa/download/discovery-h-h.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY HOME & HEALTH SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFbEglzxVTt0ZzdiFpVFV908/m3u8
+#EXTINF:-1 xui-id="141628" tvg-id="" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/i7iXLLe7BKJaxzg/download/discoverykids.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFVDyvvzDEUs61a_QjDBVXc8/m3u8
+#EXTINF:-1 xui-id="141605" tvg-id="" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/i7iXLLe7BKJaxzg/download/discoverykids.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFaUj2hTU3N686wBkxU3h3-M/m3u8
+#EXTINF:-1 xui-id="141606" tvg-id="" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/i7iXLLe7BKJaxzg/download/discoverykids.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFVqO9eUFMWhkkTxB9HQxiYE/m3u8
+#EXTINF:-1 xui-id="403771" tvg-id="Discovery Science FHD" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7zBjWyw9oJ9qQra/download/discoveryscience.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY SCIENCE FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFYN7wy-BSeGAc0LwTxP2t_M/m3u8
+#EXTINF:-1 xui-id="141643" tvg-id="" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7zBjWyw9oJ9qQra/download/discoveryscience.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY SCIENCE HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFcrVrmwgsnydwTI9MBtEzE4/m3u8
+#EXTINF:-1 xui-id="141644" tvg-id="" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7zBjWyw9oJ9qQra/download/discoveryscience.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY SCIENCE SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFVidBJo3BNnsdMxfZzID9N8/m3u8
+#EXTINF:-1 xui-id="141645" tvg-id="" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/YLddz34jSc2n357/download/discoverytheater.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY THEATER HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFeRy_OWZ5Xc0d--m2ylidHc/m3u8
+#EXTINF:-1 xui-id="141646" tvg-id="" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/YLddz34jSc2n357/download/discoverytheater.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY THEATER SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFbKKJK1U35ymdghSROOJ3o0/m3u8
+#EXTINF:-1 xui-id="141667" tvg-id="" tvg-name="DISCOVERY THEATHER FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/YLddz34jSc2n357/download/discoverytheater.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY THEATHER FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQmhSoomeAFgo0u4EU1nQao/m3u8
+#EXTINF:-1 xui-id="387055" tvg-id="" tvg-name="DISCOVERY TLC FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/WQAQPKebrXWwpzo/download/tlc.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY TLC FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFU8ZMQhaVY6jBMWZqoGb2Sc/m3u8
+#EXTINF:-1 xui-id="387056" tvg-id="" tvg-name="DISCOVERY TLC H265" tvg-logo="https://files.jpnetwork.com.br/index.php/s/WQAQPKebrXWwpzo/download/tlc.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY TLC H265
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZsQolUXgQanohPuzpA4lwo/m3u8
+#EXTINF:-1 xui-id="141418" tvg-id="TLC HD" tvg-name="DISCOVERY TLC HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/WQAQPKebrXWwpzo/download/tlc.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY TLC HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUDfHF5obp9lpkVtrNcBhsg/m3u8
+#EXTINF:-1 xui-id="141419" tvg-id="TLC HD" tvg-name="DISCOVERY TLC SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/WQAQPKebrXWwpzo/download/tlc.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY TLC SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFb-Ktc6OpVBCO1zF8nBvpqM/m3u8
+#EXTINF:-1 xui-id="141664" tvg-id="" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/mbJY46nXQeG5A8q/download/discoveryturbo.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY TURBO FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFchimrslLr8CXa2sS3f3jM8/m3u8
+#EXTINF:-1 xui-id="141647" tvg-id="" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/mbJY46nXQeG5A8q/download/discoveryturbo.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY TURBO HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFaXSrcjcOmv6_89IhMphHNQ/m3u8
+#EXTINF:-1 xui-id="141648" tvg-id="" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/mbJY46nXQeG5A8q/download/discoveryturbo.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY TURBO SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZJwShGa-OK7GU1G7tLK64k/m3u8
+#EXTINF:-1 xui-id="403768" tvg-id="" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/ao7q7XGDKmWwiAR/download/discoveryworld.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY WORLD FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFYD2IpNDvRA8oidR0OuxzYs/m3u8
+#EXTINF:-1 xui-id="403769" tvg-id="" tvg-name="DISCOVERY WORLD H265" tvg-logo="https://files.jpnetwork.com.br/index.php/s/ao7q7XGDKmWwiAR/download/discoveryworld.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY WORLD H265
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFftht_W571AlgU-FC40PJBs/m3u8
+#EXTINF:-1 xui-id="141649" tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/ao7q7XGDKmWwiAR/download/discoveryworld.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY WORLD HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFcR41QrY7rkNT-TRKsyk_DM/m3u8
+#EXTINF:-1 xui-id="141650" tvg-id="" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/ao7q7XGDKmWwiAR/download/discoveryworld.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY WORLD SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFdyVcO_K94uddP_SiHApCR0/m3u8
+#EXTINF:-1 xui-id="141630" tvg-id="" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/nXT2XHCNBApQSSn/download/Disney-Channel-Logo.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQTk6L4B6oL9d1Tu3al0k9Y/m3u8
+#EXTINF:-1 xui-id="141607" tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/nXT2XHCNBApQSSn/download/Disney-Channel-Logo.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFfYAtv9LSffZPY2A4RWZHn4/m3u8
+#EXTINF:-1 xui-id="141651" tvg-id="" tvg-name="E! HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7Y3mxpYS5YtDnqL/download/CanalE.png" group-title="CANAIS | DOCUMENTÁRIO",E! HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUoyoqHfJdnPKdBQtuozGns/m3u8
+#EXTINF:-1 xui-id="141652" tvg-id="" tvg-name="E! SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7Y3mxpYS5YtDnqL/download/CanalE.png" group-title="CANAIS | DOCUMENTÁRIO",E! SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFcouIgEANOdTX2vP05SpsMY/m3u8
+#EXTINF:-1 xui-id="686618" tvg-id="" tvg-name="ELEVEN 1" tvg-logo="https://files.jpnetwork.com.br/index.php/s/2ey8iSiXiqKqNPL/download/ELEVEN%20SPORTS.png" group-title="ESPORTES | ESPECIAIS",ELEVEN 1
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFV99B4Js7FOnEcaU3uFYaDk/m3u8
+#EXTINF:-1 xui-id="686619" tvg-id="" tvg-name="ELEVEN 2" tvg-logo="https://files.jpnetwork.com.br/index.php/s/2ey8iSiXiqKqNPL/download/ELEVEN%20SPORTS.png" group-title="ESPORTES | ESPECIAIS",ELEVEN 2
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFRYHnzWgW4gChAG1GTuO8Gc/m3u8
+#EXTINF:-1 xui-id="686620" tvg-id="" tvg-name="ELEVEN 3" tvg-logo="https://files.jpnetwork.com.br/index.php/s/2ey8iSiXiqKqNPL/download/ELEVEN%20SPORTS.png" group-title="ESPORTES | ESPECIAIS",ELEVEN 3
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFS4-D70L_dzti3kzlLBodqM/m3u8
+#EXTINF:-1 xui-id="686621" tvg-id="" tvg-name="ELEVEN 4" tvg-logo="https://files.jpnetwork.com.br/index.php/s/2ey8iSiXiqKqNPL/download/ELEVEN%20SPORTS.png" group-title="ESPORTES | ESPECIAIS",ELEVEN 4
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFfouet9gMC2vOkS7ifAgLBs/m3u8
+#EXTINF:-1 xui-id="1609965" tvg-id="" tvg-name="ELYTV" tvg-logo="https://imgur.com/5S4QHxX.png" group-title="CANAIS | ABERTOS 2",ELYTV
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQFJhP4GJWZXbFTA0XDKfgA/m3u8
+#EXTINF:-1 xui-id="337727" tvg-id="ESPN 2 FHD" tvg-name="ESPN 2 FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/5YXNxEMAnWdnMWf/download/espn2.png" group-title="CANAIS | ESPN",ESPN 2 FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFTYdvQEob0GpSTDXV4EZ_GM/m3u8
+#EXTINF:-1 xui-id="404921" tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/5YXNxEMAnWdnMWf/download/espn2.png" group-title="CANAIS | ESPN",ESPN 2 HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFWNlWDVOtm5e1E69belz18w/m3u8
+#EXTINF:-1 xui-id="337725" tvg-id="ESPN 2 SD" tvg-name="ESPN 2 SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/5YXNxEMAnWdnMWf/download/espn2.png" group-title="CANAIS | ESPN",ESPN 2 SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUmCIdIhfySDwDgC8S2BFX4/m3u8
+#EXTINF:-1 xui-id="338057" tvg-id="ESPN 3 FHD" tvg-name="ESPN 3 FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/QyCSiBPr3YbS24Z/download/espn3.png" group-title="CANAIS | ESPN",ESPN 3 FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFTAXvo-jSYf2Ga1ANz-e-Ss/m3u8
+#EXTINF:-1 xui-id="338056" tvg-id="ESPN 3 HD" tvg-name="ESPN 3 HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/QyCSiBPr3YbS24Z/download/espn3.png" group-title="CANAIS | ESPN",ESPN 3 HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFYzqaEA2G-95USSgf607Zfk/m3u8
+#EXTINF:-1 xui-id="337728" tvg-id="ESPN 3 SD" tvg-name="ESPN 3 SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/QyCSiBPr3YbS24Z/download/espn3.png" group-title="CANAIS | ESPN",ESPN 3 SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUhHnWKUnueQRSp6fXz8wq8/m3u8
+#EXTINF:-1 xui-id="141559" tvg-id="ESPN 4 FHD" tvg-name="ESPN 4 FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/2mPwXnjXQ7KA3oQ/download/espn4.png" group-title="CANAIS | ESPN",ESPN 4 FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFVBDOhRv5cNsG8aNG7s5WOE/m3u8
+#EXTINF:-1 xui-id="404924" tvg-id="ESPN 4 HD" tvg-name="ESPN 4 HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/2mPwXnjXQ7KA3oQ/download/espn4.png" group-title="CANAIS | ESPN",ESPN 4 HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFdBCMjN-IS-OL67cz4V6L1M/m3u8
+#EXTINF:-1 xui-id="141544" tvg-id="ESPN 4 HD" tvg-name="ESPN 4 SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/2mPwXnjXQ7KA3oQ/download/espn4.png" group-title="CANAIS | ESPN",ESPN 4 SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFWkjqHbBZSPBrsn6qo2FWGU/m3u8
+#EXTINF:-1 xui-id="404925" tvg-id="ESPN Extra HD" tvg-name="ESPN EXTRA HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/W2oD8KFWrdTwJfr/download/espnextra.png" group-title="CANAIS | ESPN",ESPN EXTRA HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFbjRiP5UHBrVSFwg5DCpdLs/m3u8
+#EXTINF:-1 xui-id="404920" tvg-id="ESPN FHD" tvg-name="ESPN FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Z3pJGCsGEXrm8XF/download/espn.png" group-title="CANAIS | ESPN",ESPN FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFf-hgApRR2-6jVCQXXhAzkg/m3u8
+#EXTINF:-1 xui-id="404919" tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Z3pJGCsGEXrm8XF/download/espn.png" group-title="CANAIS | ESPN",ESPN HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFS2KVeUGCwE159oa3oEam7s/m3u8
+#EXTINF:-1 xui-id="141540" tvg-id="ESPNBRS" tvg-name="ESPN SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Z3pJGCsGEXrm8XF/download/espn.png" group-title="CANAIS | ESPN",ESPN SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFeKiN3yYRQ3xOpWnb409GzI/m3u8
+#EXTINF:-1 xui-id="685165" tvg-id="" tvg-name="FASHION TV FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/YasfW29Nc5T8idq/download/fashiontv.png" group-title="CANAIS | VARIEDADES",FASHION TV FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFTbjOP5KjAuqcEmcW49NACk/m3u8
+#EXTINF:-1 xui-id="392226" tvg-id="" tvg-name="FISH TV FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/WpqHQ7GE2FmA9H4/download/fishtv1.png" group-title="CANAIS | ESPORTES",FISH TV FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFRPrUhlndECIuG9VeykGYws/m3u8
+#EXTINF:-1 xui-id="392227" tvg-id="" tvg-name="FISH TV H265" tvg-logo="https://files.jpnetwork.com.br/index.php/s/WpqHQ7GE2FmA9H4/download/fishtv1.png" group-title="CANAIS | ESPORTES",FISH TV H265
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFVGZR9pZptHz17g2jtCHkDs/m3u8
+#EXTINF:-1 xui-id="141567" tvg-id="" tvg-name="FISH TV HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/WpqHQ7GE2FmA9H4/download/fishtv1.png" group-title="CANAIS | ESPORTES",FISH TV HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFce_dTnUToFoG4SlOK4yE-c/m3u8
+#EXTINF:-1 xui-id="141568" tvg-id="" tvg-name="Fish TV SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/WpqHQ7GE2FmA9H4/download/fishtv1.png" group-title="CANAIS | ESPORTES",Fish TV SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFdcJSSDQFMwQ0eONPPYSQRo/m3u8
+#EXTINF:-1 xui-id="1609892" tvg-id="" tvg-name="FonteTV (GO)" tvg-logo="http://cdn.upcinetv.me:80/images/296ec5fccc91181b8793fc078fa94472.png" group-title="CANAIS | ABERTOS 2",FonteTV (GO)
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZSrlaL1jU2kHClvmgAQ_c8/m3u8
+#EXTINF:-1 xui-id="141569" tvg-id="" tvg-name="FOOD NETWORK HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/D3HaEMzFPXY6XYC/download/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFSP9EZgNz7y8MIMUFw5J7Sg/m3u8
+#EXTINF:-1 xui-id="141570" tvg-id="" tvg-name="FOOD NETWORK SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/D3HaEMzFPXY6XYC/download/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFfgfLbyS03x6BDIeTbydo1s/m3u8
+#EXTINF:-1 xui-id="141391" tvg-id="" tvg-name="FUTURA HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/en2YjTiFQBJSCpS/download/Canal-Futura.png" group-title="CANAIS | ABERTOS",FUTURA HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFRVQS9_xk8mCSraU85YaP14/m3u8
+#EXTINF:-1 xui-id="141392" tvg-id="" tvg-name="FUTURA SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/en2YjTiFQBJSCpS/download/Canal-Futura.png" group-title="CANAIS | ABERTOS",FUTURA SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFfaXerGHRZAEf0g3fISW-UY/m3u8
+#EXTINF:-1 xui-id="387058" tvg-id="" tvg-name="FX FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/NS9rYR9QwKGC9TW/download/fx.png" group-title="CANAIS | FILMES & SÉRIES",FX FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXiiZb1CHdv6gP8dpztYX7w/m3u8
+#EXTINF:-1 xui-id="141428" tvg-id="" tvg-name="FX HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/NS9rYR9QwKGC9TW/download/fx.png" group-title="CANAIS | FILMES & SÉRIES",FX HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFeeRP7mlEI9KBxPVBxESIzs/m3u8
+#EXTINF:-1 xui-id="141429" tvg-id="FX HD" tvg-name="FX SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/NS9rYR9QwKGC9TW/download/fx.png" group-title="CANAIS | FILMES & SÉRIES",FX SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFf72rmPaDYU9PfAzqvhCkzc/m3u8
+#EXTINF:-1 xui-id="407910" tvg-id="" tvg-name="GLOBO ALAGOAS" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO ALAGOAS
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUDiJ1b52w_OtaE06mQVYe0/m3u8
+#EXTINF:-1 xui-id="407922" tvg-id="" tvg-name="GLOBO AMAZONAS" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO AMAZONAS
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXw6-iWI9PyKqnNvDWR_SzY/m3u8
+#EXTINF:-1 xui-id="684019" tvg-id="Globo TV Asa Branca HD" tvg-name="GLOBO ASA BRANCA HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO ASA BRANCA HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFezQcj8MjF1ZsoyNZt-5IhE/m3u8
+#EXTINF:-1 xui-id="407990" tvg-id="" tvg-name="GLOBO BAHIA HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO BAHIA HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFRaoB1LWF73UCcCKXsB9bt8/m3u8
+#EXTINF:-1 xui-id="356671" tvg-id="" tvg-name="GLOBO BAHIA SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO BAHIA SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFehdEu9p4W9gmrGRS72nyyU/m3u8
+#EXTINF:-1 xui-id="356710" tvg-id="" tvg-name="GLOBO BELEM HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO BELEM HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFU5IjQGlJ531xheHThksqNg/m3u8
+#EXTINF:-1 xui-id="279889" tvg-id="" tvg-name="GLOBO BRASILIA FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO BRASILIA FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFftw4hH1sJXqov9CA1Brq7A/m3u8
+#EXTINF:-1 xui-id="279930" tvg-id="" tvg-name="GLOBO BRASILIA HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO BRASILIA HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQZpI3n9hYHt1YYNY7EMTdY/m3u8
+#EXTINF:-1 xui-id="141323" tvg-id="" tvg-name="GLOBO BRASILIA SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO BRASILIA SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZVDp1khBit0POLbmsaZZ4o/m3u8
+#EXTINF:-1 xui-id="408221" tvg-id="Globo Eptv Campinas FHD" tvg-name="GLOBO CAMPINAS FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO CAMPINAS FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFb_GhLIAD41O3yKFv_P-yv0/m3u8
+#EXTINF:-1 xui-id="356675" tvg-id="" tvg-name="GLOBO CAMPINAS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO CAMPINAS HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFU6dmI66zVpvFXJPwagZd9M/m3u8
+#EXTINF:-1 xui-id="408222" tvg-id="Globo Eptv Campinas SD" tvg-name="GLOBO CAMPINAS SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO CAMPINAS SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFbxsAKqhu-PE_Ys4-zF9BxU/m3u8
+#EXTINF:-1 xui-id="356836" tvg-id="" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO EPTV RIBEIRAO PRETO HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUnB2RusCMPfaSgqlBwQckA/m3u8
+#EXTINF:-1 xui-id="356716" tvg-id="" tvg-name="Globo EPTV SUL DE MINAS FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",Globo EPTV SUL DE MINAS FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQcWZmQGdtKH_LCy_DrIBX0/m3u8
+#EXTINF:-1 xui-id="356717" tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO EPTV SUL DE MINAS HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQh4OMnAYg90TQ5wTQFvLmc/m3u8
+#EXTINF:-1 xui-id="356718" tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO EPTV SUL DE MINAS SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFegPmznGlXI9wEmp4OVzclE/m3u8
+#EXTINF:-1 xui-id="407920" tvg-id="" tvg-name="GLOBO FLORIANOPOLIS SC" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO FLORIANOPOLIS SC
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFfU2s5gIvyG6aGXGUbiZkzo/m3u8
+#EXTINF:-1 xui-id="336857" tvg-id="" tvg-name="GLOBO FORTALEZA FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO FORTALEZA FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFWt3lVzqqOgnz08sUxjORQU/m3u8
+#EXTINF:-1 xui-id="356877" tvg-id="Globo TV Verdes Mares Fortaleza HD" tvg-name="GLOBO FORTALEZA HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO FORTALEZA HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFcjHWivxYPeUkuBoV-BmY-E/m3u8
+#EXTINF:-1 xui-id="407911" tvg-id="" tvg-name="GLOBO GAZETA ES" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO GAZETA ES
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFRAV6D8H2ScpMwK05xvCFH4/m3u8
+#EXTINF:-1 xui-id="407908" tvg-id="" tvg-name="GLOBO GOIAS" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO GOIAS
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQmCQp7jsgRHA5A5tIPZlC8/m3u8
+#EXTINF:-1 xui-id="356793" tvg-id="" tvg-name="GLOBO INTEGRAÇÃO MG FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO INTEGRAÇÃO MG FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFSU6EfkRIif2YnP63uS_SNM/m3u8
+#EXTINF:-1 xui-id="356720" tvg-id="" tvg-name="GLOBO INTEGRAÇÃO MG HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO INTEGRAÇÃO MG HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUyAJTRreqvYUfJwh3Y7thU/m3u8
+#EXTINF:-1 xui-id="141352" tvg-id="Globo SP HD" tvg-name="GLOBO INTER TV ALTO LITORAL" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO INTER TV ALTO LITORAL
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZpKubsXoO2u0S5psVx3rbo/m3u8
+#EXTINF:-1 xui-id="408233" tvg-id="Globo NSC TV JoinVille HD" tvg-name="GLOBO JOINVILE HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO JOINVILE HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFYdwNFaaxSBD6l_sSpQpkpo/m3u8
+#EXTINF:-1 xui-id="407988" tvg-id="" tvg-name="GLOBO LITORAL BAURU SP" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO LITORAL BAURU SP
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZvcXJRIMdjJFWnvr8NOzsc/m3u8
+#EXTINF:-1 xui-id="407987" tvg-id="" tvg-name="GLOBO LITORAL SANTOS" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO LITORAL SANTOS
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXZQmUr2Dsup7ajpHYflyWw/m3u8
+#EXTINF:-1 xui-id="1306907" tvg-id="Globo RPC Londrina HD" tvg-name="Globo Londrina HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",Globo Londrina HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFT5KcOxq0mwmAY504RoRYuU/m3u8
+#EXTINF:-1 xui-id="407992" tvg-id="" tvg-name="GLOBO MACEIO" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO MACEIO
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFdHfdGpkjqe3b5cFOIYdVwc/m3u8
+#EXTINF:-1 xui-id="1412771" tvg-id="Globo RPC Maringa HD" tvg-name="Globo Maringa FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",Globo Maringa FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFWm2Pcxq6suGc5bb3tT4VuQ/m3u8
+#EXTINF:-1 xui-id="1306908" tvg-id="Globo RPC Maringa HD" tvg-name="Globo Maringa HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",Globo Maringa HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZMa7kknP_QMiWvk8hONgOo/m3u8
+#EXTINF:-1 xui-id="407993" tvg-id="" tvg-name="GLOBO MG FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO MG FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFRRNi5boy8nEUlDSGW1XceI/m3u8
+#EXTINF:-1 xui-id="356796" tvg-id="" tvg-name="GLOBO MG HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO MG HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFSjbG8mTBbW_5k5JKS6ng0U/m3u8
+#EXTINF:-1 xui-id="356802" tvg-id="" tvg-name="GLOBO MINAS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO MINAS HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUsdPg7gY2kK_h6Ixzsv6fc/m3u8
+#EXTINF:-1 xui-id="356840" tvg-id="" tvg-name="GLOBO MINAS SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO MINAS SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFTKjM43Ept9Ji0weMmziugI/m3u8
+#EXTINF:-1 xui-id="407921" tvg-id="" tvg-name="GLOBO MIRANTE" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO MIRANTE
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFb0zI4sNl2_uk6Q9c24oJLA/m3u8
+#EXTINF:-1 xui-id="407923" tvg-id="" tvg-name="GLOBO MT" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO MT
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFY0lFFL7zqykpN_GeR_dhuk/m3u8
+#EXTINF:-1 xui-id="404641" tvg-id="" tvg-name="GLOBO NEWS FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/RoWKDDLfpLTcDs3/download/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFfnJbgUdppUK4XBfV_l6UbY/m3u8
+#EXTINF:-1 xui-id="404642" tvg-id="" tvg-name="GLOBO NEWS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/RoWKDDLfpLTcDs3/download/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZXGN6TghSyA__nFVhfMl_E/m3u8
+#EXTINF:-1 xui-id="408225" tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO NORDESTE HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFYasetpg6K66TBVsmxy98ZE/m3u8
+#EXTINF:-1 xui-id="356845" tvg-id="" tvg-name="GLOBO NSC FLORIANOPOLIS SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO NSC FLORIANOPOLIS SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFR-kY4-lklizfbRk4Zl63eU/m3u8
+#EXTINF:-1 xui-id="356737" tvg-id="" tvg-name="GLOBO NSC SANTA CATARINA FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO NSC SANTA CATARINA FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZ9jVbMe1exXvtPBKgOj69g/m3u8
+#EXTINF:-1 xui-id="407997" tvg-id="" tvg-name="GLOBO PERNABUCO  HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO PERNABUCO  HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFTNl5uGtPCpAzZCWWvopQ14/m3u8
+#EXTINF:-1 xui-id="1378921" tvg-id="Globo RPC TV Ponta Grossa HD" tvg-name="Globo Ponta Grossa HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",Globo Ponta Grossa HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXnkOs7-OVlkLvNR7umuq28/m3u8
+#EXTINF:-1 xui-id="356742" tvg-id="" tvg-name="GLOBO RBS CAXIAS FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO RBS CAXIAS FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFcIIyIfrRwj7iCjhvIL1RLo/m3u8
+#EXTINF:-1 xui-id="356743" tvg-id="" tvg-name="GLOBO RBS CAXIAS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO RBS CAXIAS HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFcbPJz7kSJ3JcSvgzsIEG_0/m3u8
+#EXTINF:-1 xui-id="356847" tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO RBS PORTO ALEGRE HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFWOIsjSFQZPxwov4-1xms-U/m3u8
+#EXTINF:-1 xui-id="356687" tvg-id="" tvg-name="GLOBO RBS TV PELOTAS FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO RBS TV PELOTAS FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFTOxS8shft6nrCfGz4D16Dg/m3u8
+#EXTINF:-1 xui-id="356849" tvg-id="" tvg-name="GLOBO REDE AMAZONICA MANAUS FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO REDE AMAZONICA MANAUS FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFdPo7ipwxX7aLXb8099CpMA/m3u8
+#EXTINF:-1 xui-id="356729" tvg-id="" tvg-name="GLOBO REDE AMAZONICA MANAUS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO REDE AMAZONICA MANAUS HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFfDcVLoz-oN0ipwhfd4z4Pk/m3u8
+#EXTINF:-1 xui-id="549761" tvg-id="Globo TV Rede Amazonica Rio Branco HD" tvg-name="GLOBO RIO BRANCO" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO RIO BRANCO
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXsurQSC5QdFqj1CaLoJXek/m3u8
+#EXTINF:-1 xui-id="549760" tvg-id="Globo TV Rede Amazonica Rio Branco HD" tvg-name="GLOBO RIO BRANCO HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO RIO BRANCO HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFdRWEzzRGnFWQofWZvzqcR8/m3u8
+#EXTINF:-1 xui-id="549763" tvg-id="Globo TV Rio Sul HD" tvg-name="GLOBO RIO GRANDE DO SUL" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO RIO GRANDE DO SUL
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFas3_UOs9JsiNxmac-db45E/m3u8
+#EXTINF:-1 xui-id="1387717" tvg-id="Globo TV Rio Sul HD" tvg-name="Globo Rio Sul HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",Globo Rio Sul HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFWNb-X8_pVgfVNn3G12lr_E/m3u8
+#EXTINF:-1 xui-id="549768" tvg-id="Globo RJ FHD" tvg-name="GLOBO RJ FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO RJ FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFW17adDjtQExVzN31mDsi5U/m3u8
+#EXTINF:-1 xui-id="336850" tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO RJ HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZxiiYOHEPN_CoolXhNQOmc/m3u8
+#EXTINF:-1 xui-id="356851" tvg-id="" tvg-name="GLOBO RJ SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO RJ SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQuvvZOZ4uHAjTZY_y4dIEc/m3u8
+#EXTINF:-1 xui-id="1630603" tvg-id="" tvg-name="Globo RN HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",Globo RN HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFb6rFQ0lEZehjM4M7fi1Wfw/m3u8
+#EXTINF:-1 xui-id="407998" tvg-id="Globo TV Rede Amazonica Boa Vista FHD" tvg-name="GLOBO RORAIMA FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO RORAIMA FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFeN-ui-8JUh0ofEWaHS9V48/m3u8
+#EXTINF:-1 xui-id="407916" tvg-id="" tvg-name="GLOBO RPC" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO RPC
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFfwK8MuhZvmmq3pQp0LzUHc/m3u8
+#EXTINF:-1 xui-id="356852" tvg-id="" tvg-name="GLOBO RPC CURITIBA FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO RPC CURITIBA FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFeiosqInPNCBivYDSJKUZyc/m3u8
+#EXTINF:-1 xui-id="1412770" tvg-id="Globo Rpc Curitiba HD" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO RPC CURITIBA HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFf2wQdyXhIMwnrYnE6bukhM/m3u8
+#EXTINF:-1 xui-id="141336" tvg-id="Globo SP HD" tvg-name="GLOBO RPC HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO RPC HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFcgTGi5HhtISjWD8lgS9UQE/m3u8
+#EXTINF:-1 xui-id="408229" tvg-id="Globo TV Rio Sul HD" tvg-name="GLOBO RS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO RS HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFe37i10gPgsIpsbiXh_OevY/m3u8
+#EXTINF:-1 xui-id="408228" tvg-id="Globo TV Rio Sul SD" tvg-name="GLOBO RS SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO RS SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFVNlHnTLHwO0OrmISEGCpMA/m3u8
+#EXTINF:-1 xui-id="407994" tvg-id="" tvg-name="GLOBO SANTA CATARINA FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO SANTA CATARINA FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFbbp7sKxS_6SoNzJJa9JF84/m3u8
+#EXTINF:-1 xui-id="407999" tvg-id="Globo EPTV São Carlos HD" tvg-name="GLOBO SAO CARLOS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO SAO CARLOS HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFaoGwIHnw5NAuxGcjH7Qfno/m3u8
+#EXTINF:-1 xui-id="408231" tvg-id="Globo TV Sergipe HD" tvg-name="GLOBO SE FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO SE FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFYpJTlOsoRbp1nU7tCbeThw/m3u8
+#EXTINF:-1 xui-id="408232" tvg-id="Globo TV Sergipe HD" tvg-name="GLOBO SE HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO SE HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUc0mWbkA0IqwmadGdEsjZk/m3u8
+#EXTINF:-1 xui-id="356694" tvg-id="" tvg-name="GLOBO SP FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO SP FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFdqT7rIW7PkLuxsrCci99Jk/m3u8
+#EXTINF:-1 xui-id="141338" tvg-id="Globo SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO SP HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXphy0f_tnyJGgoIf0E_DBY/m3u8
+#EXTINF:-1 xui-id="141339" tvg-id="Globo SP HD" tvg-name="GLOBO SP SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO SP SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFS04gQe_q04pPxQtebKd1W4/m3u8
+#EXTINF:-1 xui-id="408224" tvg-id="Globo EPTV São Carlos HD" tvg-name="GLOBO SÃO CARLOS" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO SÃO CARLOS
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUsR62s-IrSr0XOeHJ9KI4w/m3u8
+#EXTINF:-1 xui-id="356774" tvg-id="" tvg-name="GLOBO TV BELEM FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO TV BELEM FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUGrSeA0rHLWY0wKvpWXJe0/m3u8
+#EXTINF:-1 xui-id="408004" tvg-id="Globo TV Cabo Branco FHD" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO TV CABO BRANCO FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFaThrl8ChJsESbMbprURCQo/m3u8
+#EXTINF:-1 xui-id="408005" tvg-id="Globo TV Cabo Branco HD" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO TV CABO BRANCO HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFU3ogJKQXE2LjKfGmYenhQs/m3u8
+#EXTINF:-1 xui-id="356824" tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO TV GAZETA ALAGOAS FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFeGHeAkZBArk0MDMbumQTD8/m3u8
+#EXTINF:-1 xui-id="356869" tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO TV LIBERAL BELEM HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFT5eATj7XMdJBTcdtNO0ZC4/m3u8
+#EXTINF:-1 xui-id="408007" tvg-id="Globo TV Morena FHD" tvg-name="GLOBO TV MORENA FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO TV MORENA FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFbrsOCxZmkNyCGVqF8L4_ms/m3u8
+#EXTINF:-1 xui-id="408008" tvg-id="Globo TV Morena HD" tvg-name="GLOBO TV MORENA HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO TV MORENA HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXpL0rkDLbma-GAas9i7hnY/m3u8
+#EXTINF:-1 xui-id="356832" tvg-id="" tvg-name="GLOBO TV TEM SOROCABA FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO TV TEM SOROCABA FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFflpKiGu15aJO27RiBsIQaY/m3u8
+#EXTINF:-1 xui-id="356833" tvg-id="" tvg-name="GLOBO TV TEM SOROCABA SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO TV TEM SOROCABA SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZ2pX-Uac7XZJY0_3WlXEz8/m3u8
+#EXTINF:-1 xui-id="356834" tvg-id="" tvg-name="GLOBO TV TRIBUNA SANTOS FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO TV TRIBUNA SANTOS FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFWGg9HBQkwwr0LGSsQyhqdU/m3u8
+#EXTINF:-1 xui-id="408002" tvg-id="Globo TV Vanguarda HD" tvg-name="GLOBO VANGUARDA HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO VANGUARDA HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQbBJHKUXMbrZaM06NElW6g/m3u8
+#EXTINF:-1 xui-id="407989" tvg-id="" tvg-name="GLOBO VANGUARDA SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO VANGUARDA SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFdumt7eQyXiCGOaSO5Q3HSg/m3u8
+#EXTINF:-1 xui-id="407985" tvg-id="" tvg-name="GLOBO VERDES MARES HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cfL3carRDkFXdji/download/globo.png" group-title="CANAIS | GLOBOS",GLOBO VERDES MARES HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQxA_6QhuSLem4V9Usb2CCg/m3u8
+#EXTINF:-1 xui-id="141613" tvg-id="" tvg-name="GLOOB FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/NaXRGLDPkKE2XJZ/download/gloob.png" group-title="CANAIS | INFANTIL",GLOOB FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFagKuBeR6sa9XCOUsmo5eiU/m3u8
+#EXTINF:-1 xui-id="180069" tvg-id="" tvg-name="GLOOB HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/NaXRGLDPkKE2XJZ/download/gloob.png" group-title="CANAIS | INFANTIL",GLOOB HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFX3p5tifnaXvWYdFFgjj6rI/m3u8
+#EXTINF:-1 xui-id="141614" tvg-id="" tvg-name="GLOOB SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/NaXRGLDPkKE2XJZ/download/gloob.png" group-title="CANAIS | INFANTIL",GLOOB SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZqJSFRMQqI860-wHHvdRM4/m3u8
+#EXTINF:-1 xui-id="409242" tvg-id="TV Gloobinho FHD" tvg-name="GLOOBINHO FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/osZemEkpywk4sMz/download/globinho.png" group-title="CANAIS | INFANTIL",GLOOBINHO FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFb9saRXzBXov8X1Q4z5g3Tg/m3u8
+#EXTINF:-1 xui-id="180070" tvg-id="" tvg-name="GLOOBINHO HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/osZemEkpywk4sMz/download/globinho.png" group-title="CANAIS | INFANTIL",GLOOBINHO HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFdOulMWdSTwOEWYPIz2Pp5c/m3u8
+#EXTINF:-1 xui-id="409243" tvg-id="" tvg-name="GLOOBINHO SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/osZemEkpywk4sMz/download/globinho.png" group-title="CANAIS | INFANTIL",GLOOBINHO SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFTpKn6uktzZami3xZHMfOtw/m3u8
+#EXTINF:-1 xui-id="392222" tvg-id="" tvg-name="GNT FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/xtfKMsTPc5eekyK/download/gnt.png" group-title="CANAIS | VARIEDADES",GNT FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZhHI2Aj4Ju__AoU6rUZGik/m3u8
+#EXTINF:-1 xui-id="141573" tvg-id="" tvg-name="GNT HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/xtfKMsTPc5eekyK/download/gnt.png" group-title="CANAIS | VARIEDADES",GNT HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFV2sZluVXH8gEBBrTQUMINg/m3u8
+#EXTINF:-1 xui-id="141574" tvg-id="" tvg-name="GNT SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/xtfKMsTPc5eekyK/download/gnt.png" group-title="CANAIS | VARIEDADES",GNT SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFdPrXOT1E5Kmf-hQc6RBQlY/m3u8
+#EXTINF:-1 xui-id="1609886" tvg-id="" tvg-name="Gospel Cartoon" tvg-logo="http://cdn.upcinetv.me:80/images/581d1cc80d960181ce8a9cef80e82dbe.png" group-title="CANAIS | ABERTOS 2",Gospel Cartoon
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFYz0ehsseyBBBtRi3XS8UVQ/m3u8
+#EXTINF:-1 xui-id="1609887" tvg-id="" tvg-name="Gospel Movie TV" tvg-logo="http://cdn.upcinetv.me:80/images/f4d26a45dc21357b55acfce36852d408.jpg" group-title="CANAIS | ABERTOS 2",Gospel Movie TV
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXDG7lC-kzSz7JlvPbRMKWY/m3u8
+#EXTINF:-1 xui-id="1609888" tvg-id="" tvg-name="Gospel Music" tvg-logo="http://cdn.upcinetv.me:80/images/c37ef5d853dee77547de33008052f014.jpg" group-title="CANAIS | ABERTOS 2",Gospel Music
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFbqDGCxapo-90TtN6INwnhk/m3u8
+#EXTINF:-1 xui-id="1609872" tvg-id="" tvg-name="GuiaTV" tvg-logo="http://cdn.upcinetv.me:80/images/d6d0e163197aa1cd54db6663cdb375c5.png" group-title="CANAIS | ABERTOS 2",GuiaTV
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFSwHLQjFlqhJ7w1RfyVVHvQ/m3u8
+#EXTINF:-1 xui-id="380159" tvg-id="" tvg-name="H2 FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Lft2LF4YDAwZZeZ/download/history2.png" group-title="CANAIS | DOCUMENTÁRIO",H2 FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFVBNx8HgqmHe-Habf0lljMU/m3u8
+#EXTINF:-1 xui-id="141653" tvg-id="" tvg-name="H2 HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Lft2LF4YDAwZZeZ/download/history2.png" group-title="CANAIS | DOCUMENTÁRIO",H2 HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFUvzO3pJFL_mTam0YtDwG0M/m3u8
+#EXTINF:-1 xui-id="141654" tvg-id="" tvg-name="H2 SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Lft2LF4YDAwZZeZ/download/history2.png" group-title="CANAIS | DOCUMENTÁRIO",H2 SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFV0EzTLzwZEcfSpoJwjo6tQ/m3u8
+#EXTINF:-1 xui-id="141486" tvg-id="" tvg-name="HBO 2 HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/EygWHpM8B9inopW/download/hbo2.png" group-title="CANAIS | HBO",HBO 2 HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFaoMJl4Au-5f7cT0BmT8xb8/m3u8
+#EXTINF:-1 xui-id="141487" tvg-id="" tvg-name="HBO 2 SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/EygWHpM8B9inopW/download/hbo2.png" group-title="CANAIS | HBO",HBO 2 SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFYGIF-S_BsHQ0zXcbMwufLA/m3u8
+#EXTINF:-1 xui-id="141488" tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/GMmD8HRoBR3yYLg/download/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZcHRqZYZUBk4Ofu0LNXZYs/m3u8
+#EXTINF:-1 xui-id="141489" tvg-id="" tvg-name="HBO FAMILY SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/GMmD8HRoBR3yYLg/download/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFac27Yr-W00gnvE2znFc1Ac/m3u8
+#EXTINF:-1 xui-id="685177" tvg-id="HBO FHD" tvg-name="HBO FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/tRKKzPsymT7N7kj/download/HBOPLUS.png" group-title="CANAIS | HBO",HBO FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFf2ktyXf4qti9C-E1EkMrfY/m3u8
+#EXTINF:-1 xui-id="141490" tvg-id="" tvg-name="HBO HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/eMW8SCnYXtq7DNY/download/hbo.png" group-title="CANAIS | HBO",HBO HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFVs_DjPSGiVZ05Rm2lYJ_oQ/m3u8
+#EXTINF:-1 xui-id="167710" tvg-id="" tvg-name="HBO MAX 1" tvg-logo="https://files.jpnetwork.com.br/index.php/s/dajs8xt67JaKCrX/download/HBO-Max-Logo.png" group-title="CANAIS | HBO MAX",HBO MAX 1
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFVWl7BSn8affx4GCg-mAAHE/m3u8
+#EXTINF:-1 xui-id="167711" tvg-id="" tvg-name="HBO MAX 2" tvg-logo="https://files.jpnetwork.com.br/index.php/s/dajs8xt67JaKCrX/download/HBO-Max-Logo.png" group-title="CANAIS | HBO MAX",HBO MAX 2
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFS_QvNpEsjrfgs7Sn4Xg0aM/m3u8
+#EXTINF:-1 xui-id="167712" tvg-id="" tvg-name="HBO MAX 3" tvg-logo="https://files.jpnetwork.com.br/index.php/s/dajs8xt67JaKCrX/download/HBO-Max-Logo.png" group-title="CANAIS | HBO MAX",HBO MAX 3
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXHbmXStVHQGv4W7-HJHlMM/m3u8
+#EXTINF:-1 xui-id="167713" tvg-id="" tvg-name="HBO MAX 4" tvg-logo="https://files.jpnetwork.com.br/index.php/s/dajs8xt67JaKCrX/download/HBO-Max-Logo.png" group-title="CANAIS | HBO MAX",HBO MAX 4
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQ15S3F5NnfCYiMJyPYkh1w/m3u8
+#EXTINF:-1 xui-id="141492" tvg-id="" tvg-name="HBO MUNDI FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/TSHdtMap7rpZQXP/download/hbomunfi.png" group-title="CANAIS | HBO",HBO MUNDI FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFY7sPxGH-OfOoVJ3oKwBBg8/m3u8
+#EXTINF:-1 xui-id="141493" tvg-id="" tvg-name="HBO MUNDI HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/TSHdtMap7rpZQXP/download/hbomunfi.png" group-title="CANAIS | HBO",HBO MUNDI HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQ2h7h06x5dBeIY7nvtHm5o/m3u8
+#EXTINF:-1 xui-id="141494" tvg-id="" tvg-name="HBO MUNDI SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/TSHdtMap7rpZQXP/download/hbomunfi.png" group-title="CANAIS | HBO",HBO MUNDI SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFcEdeoK3hvz3kNqxDjskeu4/m3u8
+#EXTINF:-1 xui-id="141495" tvg-id="HBO Plus" tvg-name="HBO PLUS H265" tvg-logo="https://files.jpnetwork.com.br/index.php/s/tRKKzPsymT7N7kj/download/HBOPLUS.png" group-title="CANAIS | HBO",HBO PLUS H265
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFeauVikua61kfAySpt4AI5c/m3u8
+#EXTINF:-1 xui-id="141484" tvg-id="HBO Plus" tvg-name="HBO PLUS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/tRKKzPsymT7N7kj/download/HBOPLUS.png" group-title="CANAIS | HBO",HBO PLUS HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFb4x1GDrWQNKy42lTmINvJk/m3u8
+#EXTINF:-1 xui-id="141485" tvg-id="HBO Plus" tvg-name="HBO PLUS SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/tRKKzPsymT7N7kj/download/HBOPLUS.png" group-title="CANAIS | HBO",HBO PLUS SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQQkuznNR1IHiumV-cVBBhM/m3u8
+#EXTINF:-1 xui-id="141496" tvg-id="" tvg-name="HBO POP FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/QWj3PwP7x2R8Ejs/download/hbopop.png" group-title="CANAIS | HBO",HBO POP FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFcgwG0xI0JRlzuQYc6KaQQQ/m3u8
+#EXTINF:-1 xui-id="141497" tvg-id="" tvg-name="HBO POP HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/QWj3PwP7x2R8Ejs/download/hbopop.png" group-title="CANAIS | HBO",HBO POP HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFQ6jeKRXD3ITDWSViS5wWAM/m3u8
+#EXTINF:-1 xui-id="141498" tvg-id="" tvg-name="HBO POP SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/QWj3PwP7x2R8Ejs/download/hbopop.png" group-title="CANAIS | HBO",HBO POP SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFRChrWFcd-WCFSwsq57eemA/m3u8
+#EXTINF:-1 xui-id="141491" tvg-id="" tvg-name="HBO SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/eMW8SCnYXtq7DNY/download/hbo.png" group-title="CANAIS | HBO",HBO SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFWXg15pzNdcgKgEMzPRmRd4/m3u8
+#EXTINF:-1 xui-id="141499" tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/bx6ecqeTm5aLBd7/download/hbosign.png" group-title="CANAIS | HBO",HBO SIGNATURE HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFekoWdpPLq_WDwbpfqoXd_4/m3u8
+#EXTINF:-1 xui-id="141500" tvg-id="" tvg-name="HBO SIGNATURE SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/bx6ecqeTm5aLBd7/download/hbosign.png" group-title="CANAIS | HBO",HBO SIGNATURE SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFfdCvO0FwAFLeVYpow07oLA/m3u8
+#EXTINF:-1 xui-id="141501" tvg-id="" tvg-name="HBO XTREME HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/k7zwPooTA8X52Md/download/hboextreme.png" group-title="CANAIS | HBO",HBO XTREME HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFcrPUgTFTi4KG59odGChgNU/m3u8
+#EXTINF:-1 xui-id="141502" tvg-id="" tvg-name="HBO XTREME SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/k7zwPooTA8X52Md/download/hboextreme.png" group-title="CANAIS | HBO",HBO XTREME SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFb3Sb8xAYmjZlWMuttK4dBs/m3u8
+#EXTINF:-1 xui-id="408451" tvg-id="HBO+" tvg-name="HBO+ H264" tvg-logo="https://files.jpnetwork.com.br/index.php/s/tRKKzPsymT7N7kj/download/HBOPLUS.png" group-title="CANAIS | HBO",HBO+ H264
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXWaEtnvRxRfwcsRMyFtOuc/m3u8
+#EXTINF:-1 xui-id="408450" tvg-id="HBO Plus" tvg-name="HBO+ HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/tRKKzPsymT7N7kj/download/HBOPLUS.png" group-title="CANAIS | HBO",HBO+ HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFdD3dYRxciTqJW61DluuX5Y/m3u8
+#EXTINF:-1 xui-id="408449" tvg-id="HBO Plus" tvg-name="HBO+ SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/tRKKzPsymT7N7kj/download/HBOPLUS.png" group-title="CANAIS | HBO",HBO+ SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFdkH4wRSerPo6ujHu9CPqjM/m3u8
+#EXTINF:-1 xui-id="402625" tvg-id="" tvg-name="HGTV FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/8mqrdEgpsdXsspQ/download/hgtv.png" group-title="CANAIS | DOCUMENTÁRIO",HGTV FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFWR6h5zRG5FMgqdWtk23CAY/m3u8
+#EXTINF:-1 xui-id="141655" tvg-id="" tvg-name="HGTV HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/8mqrdEgpsdXsspQ/download/hgtv.png" group-title="CANAIS | DOCUMENTÁRIO",HGTV HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFdndBgHnPvs5qW9OquDzfYg/m3u8
+#EXTINF:-1 xui-id="141656" tvg-id="" tvg-name="HGTV SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/8mqrdEgpsdXsspQ/download/hgtv.png" group-title="CANAIS | DOCUMENTÁRIO",HGTV SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFTGLc-9bc1KFvTkTClel3hk/m3u8
+#EXTINF:-1 xui-id="141658" tvg-id="" tvg-name="HISTORY CHANNEL SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/2froB5qHNwF6bXb/download/history.png" group-title="CANAIS | DOCUMENTÁRIO",HISTORY CHANNEL SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFXYX26YlBw_IsNuBuJhAzt8/m3u8
+#EXTINF:-1 xui-id="141671" tvg-id="" tvg-name="HISTORY FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/2froB5qHNwF6bXb/download/history.png" group-title="CANAIS | DOCUMENTÁRIO",HISTORY FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFZeRxK72AdKpskPUT21H_Us/m3u8
+#EXTINF:-1 xui-id="141657" tvg-id="" tvg-name="HISTORY HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/2froB5qHNwF6bXb/download/history.png" group-title="CANAIS | DOCUMENTÁRIO",HISTORY HD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFd-yqzVzLNxNyYZ1TKPqZUc/m3u8
+#EXTINF:-1 xui-id="141435" tvg-id="" tvg-name="ID - INVESTIGAÇAO DISCOVERY FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cXcicySPHHb5BsR/download/id.png" group-title="CANAIS | DOCUMENTÁRIO",ID - INVESTIGAÇAO DISCOVERY FHD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFbJqmepz8rWIF3CwtZJXYBg/m3u8
+#EXTINF:-1 xui-id="141436" tvg-id="" tvg-name="ID - INVESTIGAÇAO DISCOVERY SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/cXcicySPHHb5BsR/download/id.png" group-title="CANAIS | DOCUMENTÁRIO",ID - INVESTIGAÇAO DISCOVERY SD
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFdGurj-ykOsRA5KZNJZiY78/m3u8
+#EXTINF:-1 xui-id="1609903" tvg-id="" tvg-name="ISTV" tvg-logo="http://cdn.upcinetv.me:80/images/5680ab11b4ea50ca97137c8d475e362c.png" group-title="CANAIS | ABERTOS 2",ISTV
+http://cdn.upcinetv.me:80/play/dq8pheKzqrBRpjGRuKVHFb_NIMDAQ3kjmV-MiIXUzOQ/m3u8
